@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/yiochen/Simple-Angular2-Starter.svg?branch=master)](https://travis-ci.org/yiochen/Simple-Angular2-Starter)
 # Simple-Angular2-Starter
 > A dead simple Angular 2 Webpack starter. Originated from the Angular Webpack tutorial
 
