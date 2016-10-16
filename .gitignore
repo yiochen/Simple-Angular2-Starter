@@ -1,0 +1,5 @@
+node_modules/
+bower_modules/
+dist/
+typings/
+npm-debug.log
