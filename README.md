@@ -8,3 +8,7 @@ This is an opinionated setup copied from Angular's webpack tutorial with the fol
 
 This is for my personal use when I just want to test out some Angular component libraries. But feel free to clone it and build your 
 project on top of it.
+
+### Requirement  
+- npm 3.0   
+- node 6.0
